@@ -1,4 +1,4 @@
-//This is the Item class. 
+//This is the Item class.  
 public class Item {
 	private String assetTag;
 	private String description;
