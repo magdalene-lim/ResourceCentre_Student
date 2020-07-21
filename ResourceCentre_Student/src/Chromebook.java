@@ -1,4 +1,4 @@
-
+//This is the Chromebook class
 public class Chromebook extends Item{
 	private String os;
 
