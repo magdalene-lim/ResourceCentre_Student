@@ -1,4 +1,4 @@
-//This is the Item class.  
+//I changed these comments!
 public class Item {
 	private String assetTag;
 	private String description;
